@@ -71,6 +71,7 @@ class MensajesNavidadSeeder extends Seeder
             ['Hubertt Josue Requena Felipe', '¡Feliz Navidad, Hubertt! Es un gusto tener un compañero como tu persona. Deseo que pases unas muy felices fiestas, ¡Disfrutalas! Y será muy grato compartir el siguiente año con vos en el departamento.'],
             ['Francisco Jose Avila Galeano', '¡Feliz Navidad, Pancho! Sos un excelente compañero, el más chambeador de los 3, ha sido un placer contar con tu apoyo en el departamento. Espero que te la pases de lo mejor con los tuyos en estas fiestas, descansa y un própero año nuevo.'],
             ['Jefferson Isaac Lorenzo Caceros', '¡Feliz Navidad, Joven! Ha sido un placer trabajar en equipo con vos estos 7 años y cacho. Has sido un excelente compañero y ahora un buen jefe, me alegra su crecimiento, seguí así. Te deseo que pases unas felices fiestas junto a tu familia. Y desde ya un excelente 2026. ¡Pasala bien!'],
+            ['Jose Roberto Montenegro', '¡Feliz Navidad, Ing. Jose Montenegro! Deseo expresar mis felicitaciones por su excelente gestión y liderazgo a lo largo de este y años anteriores, es una persona ejemplar y admirable por su largo trayecto laboral. Que estas fiestas sean motivo de alegría y unión para usted y su familia. Mis mejores deseos para el año que comienza.'],
         ];
 
         foreach ($data as [$nombre, $mensajeTexto]) {

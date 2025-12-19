@@ -119,7 +119,7 @@
 </div>
 
 <footer>
-    Sino gano, ¡renuncio!
+    ¡Felices fiestas les desea el Team de T.I.!
 </footer>
 
 </body>
