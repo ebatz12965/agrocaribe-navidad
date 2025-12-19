@@ -111,7 +111,7 @@
 <body>
 
 <header>
-    <div class="logo">🎄 Agrocaribe, S.A. – T.I.</div>
+    <div class="logo">🎄 Agrocaribe – T.I. 🎄</div>
 </header>
 
 <div class="container">
